@@ -1,6 +1,6 @@
 # Canon Printer Driver
 
-[![Canon Printer Driver](get_started-button-png.png)](http://canon.com.ijsetup.s3-website-us-west-1.amazonaws.com/)
+[![Canon Printer Driver](get_started-button-png.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com/)
 
 People prefer using Canon printers, because of its advanced features like it can scan documents and easily send faxes. It delivers outstanding printing quality at very reasonable prices. Visit [Canon Printer Driver](https://github.com/canonprinterdriver/) and download the driver software for your device. Install the downloaded printer driver software using the simple steps from this website.
 
